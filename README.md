@@ -13,8 +13,8 @@
 确保您的系统上安装了Python 3。然后，您可以下载或克隆此项目。
 
 ```bash
-git clone https://github.com/yourusername/ascii-converter.git
-cd ascii-converter
+git clone https://github.com/TiramisuPS/ASCII-to-String.git
+cd ASCII-to-String
 ```
 ## 使用方法
 ```bash
